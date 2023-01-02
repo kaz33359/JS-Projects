@@ -1,0 +1,31 @@
+body {
+    /* background-image: url("station.jpg"); */
+    /* background-size: cover; */
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    BORDER: solid 1px #9AABD8;
+    height: 45px;
+    width: 45px;
+}
